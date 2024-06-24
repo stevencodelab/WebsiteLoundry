@@ -2,7 +2,15 @@
 Sistem Pengelolaan Loundry Berbasis Website
 
 Jika ingin full Source Code & Database bisa menghubungi saya melalui Whatsapp atau Instagram 
-
+<h3 align="center">Hubungi saya 👇</h3>
+<div id="badges" align="center">
+  <a href="https://wa.link/gex9vp">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/stevenmrsn/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+</div>
 
 Sistem Pengelolaan Loundry Berbasis Website ini dibangun dengan menggunakan bahasa pemrograman `PHP` , `Mysql` sebagai `Database Management System`. Sistem Pengelolaan Loundry ini sangat cocok digunakan pada usaha loundry karena lebih efisien dan menghemat waktu serta sudah terkomputerisasi.
 tampilan dari Sistem Pengelolaan Loundry Berbasis Website ini menggunakan `Template Dashboard KaiAdmin` dari themekita `https://themewagon.com/themes/kaiadmin/` yang kemudian dikembangkan lagi berdasarkan keinginan user.
