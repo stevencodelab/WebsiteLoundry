@@ -2,7 +2,7 @@
 Sistem Pengelolaan Loundry Berbasis Website
 
 Jika ingin full Source Code & Database bisa menghubungi saya melalui Whatsapp atau Instagram 
-<h3 align="center">Hubungi saya 👇</h3>
+<h3 align="center">Hubungi saya 👇 (Paid)</h3>
 <div id="badges" align="center">
   <a href="https://wa.link/gex9vp">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
